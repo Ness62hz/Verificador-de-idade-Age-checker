@@ -1,0 +1,38 @@
+body{
+    background: rgb(0, 179, 255);
+    font: bold 20px arial;
+}
+header{
+    font: bold 22px arial;
+    color: rgb(12, 187, 187);
+    text-align: center;
+    background: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(4, 0, 255);
+}
+section{
+    background:white;
+    border-radius: 15px;
+    width: 400px;
+    height: 470px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 10px rgb(4, 0, 255);
+}    
+footer{
+    margin-top: 15px;
+    font: bold 15px arial;
+    color: rgb(246, 246, 246);
+    font-style: italic;
+    text-align: center;
+}
+div#res{
+    text-align: center;
+    margin-top: 50px;
+}
+div#img{
+    margin: auto;
+    
+}
